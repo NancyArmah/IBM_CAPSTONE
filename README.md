@@ -12,4 +12,4 @@ The notebooks included in this repo are;
 * Visual Analytics and Dashboard
 * Folium 
 * Machine Learning Prediction
-  *Classification
+  * Classification
